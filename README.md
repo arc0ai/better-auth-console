@@ -82,7 +82,7 @@ Better Auth Console is designed to be self-hosted. Deploy it on your own infrast
 
 Contributions are welcome! Please read the [Contributing Guide][contributing] to get started.
 
-- **💡 [Contributing Guide][contributing]**: Learn about our contribution process and coding standards.
+- **💡 [Contributing Guide][contributing]**: Learn about contributing to the project.
 - **🐛 [Report an Issue][issues]**: Found a bug? Let us know!
 - **💬 [Start a Discussion][discussions]**: Have ideas or suggestions? We'd love to hear from you.
 
@@ -92,7 +92,7 @@ Released under [MIT][license].
 
 <!-- REFERENCE LINKS -->
 
-[contributing]: https://github.com/arc0ai/better-auth-console/blob/main/CONTRIBUTING.md
+[contributing]: https://better-auth-console.com/docs/contributing
 [license]: https://github.com/arc0ai/better-auth-console/blob/main/LICENSE
-[discussions]: https://discuss.better-auth-console.com
+[discussions]: https://github.com/arc0ai/better-auth-console/issues/new
 [issues]: https://github.com/arc0ai/better-auth-console/issues
